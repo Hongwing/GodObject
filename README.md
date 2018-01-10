@@ -4,7 +4,8 @@
 ### English Statement
 * **Try to create A function which can print the info of class.** 
 * **This function is born with the class in the same time.**
-* **This function should be called like this:**
+* **This function should be called like this**
+
 ```
 /** 
 * print info of ClassName 
@@ -21,6 +22,7 @@ ClassName::Description();
 * **定义一个函数，这个函数可以输出类的信息**
 * **不用声明类的实例对象，直接调用即可. 这意味着该方法是静态成员方法**
 * **函数调用方式如下：**
+
 ```
 /** 
 * print info of ClassName 
@@ -33,7 +35,7 @@ ClassName::Description();
 
 ```
 
-
+---
 
 # GodObject
 
@@ -72,4 +74,4 @@ Console Result：
 
 ---
 ##### *GodObject可以有多种调用方法，请选择语义明确的，比如示例*
-##### *Please call the function like example, this would be nice about program*
+##### *Please call the function like example, this would be nice about your program*
